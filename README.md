@@ -3,6 +3,9 @@ Pathfinding in a maze using threads
 
 By: Angus Poole
 
+## Video
+https://www.youtube.com/watch?v=a1p1C_qsK8k
+
 ## About
 This program demonstrates threading in 2 areas: the loading of models, and pathfinding for the Daleks in the maze. I initially set it up with the pathfinding, but it doesn't speed the program up fast enough for the requirement, so I then set it up with the loading of models.
 
